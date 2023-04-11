@@ -1,0 +1,36 @@
+/* input */
+.input-svg {
+  display: flex;
+  width: 549px;
+  height: 36px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.bgColor {
+  background-color: white;
+}
+.dark {
+  background-color: black;
+  border: 1px solid #9c9b99;
+  color: white;
+}
+.inside-svg {
+  width: 39px;
+  margin-right: 0;
+  align-items: center;
+}
+.inside-svg svg {
+  width: 13px;
+  height: 15px;
+  margin: 10px 12px;
+}
+.input-div {
+  display: flex;
+  max-width: 500px;
+  align-items: center;
+}
+.input-div p {
+  color: #9c9b99;
+  font-size: 14px;
+}
+/* input */

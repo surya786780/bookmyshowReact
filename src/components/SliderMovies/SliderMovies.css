@@ -1,0 +1,25 @@
+/* slides */
+.scrollSlide {
+  height: 100%;
+  background-color: #ebebeb;
+  padding: 0 0 32px;
+}
+.slide {
+  /* height: 322px; */
+}
+.scrollSlide {
+  position: relative;
+}
+.slide-img div {
+  width: 100%;
+  height: auto;
+}
+.res-img {
+  max-height: 310px;
+  /* max-width: 1240px; */
+  width: inherit;
+  height: auto;
+  /* width: 100%; */
+  padding-top: 10px;
+}
+/* slides */

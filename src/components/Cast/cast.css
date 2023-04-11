@@ -1,0 +1,8 @@
+.castImage {
+  width: 8rem;
+  height: 8rem;
+  /* width: 70%;
+  height: 70%; */
+  border-radius: 60px;
+  opacity: 1;
+}
