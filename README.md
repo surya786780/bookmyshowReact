@@ -19,5 +19,3 @@ Here Some of the outputs of smart attendance
 <img width="290" alt="11" src="https://github.com/surya786780/bookmyshowReact/assets/82148364/14cdb2c2-f0dd-40f6-b888-af7dd16a09fd">
 <img width="290" alt="12" src="https://github.com/surya786780/bookmyshowReact/assets/82148364/f92a73d6-880e-439a-b22c-8169422cd5ca">
 <img width="254" alt="13" src="https://github.com/surya786780/bookmyshowReact/assets/82148364/5060640b-7e14-4cbd-929b-70eeacb0ac47">
-
-<img src="" alt="img-1" height="500px" width="500px" style="margin-right:20px"/>
